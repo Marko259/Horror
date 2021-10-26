@@ -1,7 +1,7 @@
 {
   "dependencies": {
-<<<<<<< HEAD
     "com.unity.collab-proxy": "1.13.5",
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
     "com.unity.collab-proxy": "1.13.5",
@@ -9,10 +9,12 @@
     "com.unity.collab-proxy": "1.11.2",
 >>>>>>> e21eba6e6c1fbed36c55a9ede44590a02fa2c68b
 >>>>>>> 00eeba00baa2c0cb1b66702e8a9480b57e92068c
+=======
+>>>>>>> 4e2bc1c07ec533e7531f58f068f20dd03357fdc3
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.11",
     "com.unity.ide.vscode": "1.2.4",
-    "com.unity.test-framework": "1.1.29",
+    "com.unity.test-framework": "1.1.30",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.4.8",
     "com.unity.ugui": "1.0.0",
