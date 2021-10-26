@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "1.13.5",
+=======
+      "version": "1.11.2",
+>>>>>>> e21eba6e6c1fbed36c55a9ede44590a02fa2c68b
       "depth": 0,
       "source": "registry",
       "dependencies": {
